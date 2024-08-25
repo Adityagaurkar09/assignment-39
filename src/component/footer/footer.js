@@ -1,6 +1,6 @@
 import "./footer.css"
 
-function footer() {
+function Footer() {
   return (
     <div className='footer'>
         All Right Reserved & Scopy : 2024
@@ -8,4 +8,4 @@ function footer() {
   )
 }
 
-export default footer
+export default Footer

@@ -2,7 +2,7 @@ import React from 'react'
 import "./contact.css"
 import Navbar from './../../component/navbar/navbar'
 import imgcontact from './Contact us-bro.png'
-import footer from './../../component/footer/footer'
+import Footer from '../../component/footer/Footer'
 
 function Contact() {
   return (
@@ -10,7 +10,7 @@ function Contact() {
       <Navbar/>
       <h1 className='page-title'>Contact</h1>
       <img src={imgcontact} className='header-img'/>
-      <footer/>
+      <Footer/>
       </div>
   )
 }

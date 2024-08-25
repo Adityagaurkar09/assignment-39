@@ -14,9 +14,10 @@
 .navbar-link{
     color: white;
     text-decoration: none;
-    margin: 0 20px;
-   
+    margin: 0 20px; 
+    margin-left: 250px; 
 }
+
 .page-title{
     background-color: aqua;
     text-align: center;
